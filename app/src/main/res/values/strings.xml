@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BanglaDate</string>
+
+    <string name="bang_time_format">hh:mm</string>
+    <string name="AM">সকাল</string>
+    <string name="PM">বিকাল</string>
+
+
+
+</resources>
